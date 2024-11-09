@@ -13,12 +13,13 @@ The game, built using **Pygame** and **NumPy**, provides a visual and interactiv
 ## Installation and Usage
 
 1. Install dependencies:  
-   ```bash
+```
    pip install pygame numpy
 ```
 
 2. Run the Game:
-```bash
+
+```
 python GameOfLife.py
 
 ```
